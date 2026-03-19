@@ -1,13 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Jamoliddin
 
-<!--
-**jamaliddins/jamaliddins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** passionate about turning raw data into actionable insights. 
 
-My name is Jamoliddin and I now work as a Data Analyst.
+### 🛠 Tech Stack & Tools
+*   **Databases:** PostgreSQL
+*   **Analysis & Visualization:** Power BI, Python (Pandas, Numpy)
+*   **Reporting:** MS Office (Expert in Excel)
 
-Since today, I have used several tools, technologies, and methods. For example: PostgreSQL, MS Office programmes, Python, and Power BI.
-I have two plans to achieve before 2027. First of all, enter the master's degree program at one of the top 100 universities. Secondly, growing up to be a strong middle Data Analyst with brilliant technical and communication skills.
+### 🎯 My Goals for 2027
+*   🎓 Secure a Master’s degree at a **Top 100 Global University**.
+*   🚀 Level up to a **Strong Middle Data Analyst** with top-tier technical and communication skills.
 
-Open to working with startups or giving my own thoughts about a dataset.
-
--->
+### 🤝 Let's Connect
+*   📫 Open to collaborating with **startups** or discussing interesting **datasets**.
+*   💬 Feel free to reach out for insights or data-driven discussions!
