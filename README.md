@@ -1,16 +1,3 @@
-## Hi there 👋 I'm Jamoliddin
-
-I am a **Data Analyst** passionate about turning raw data into actionable insights. 
-
-### 🛠 Tech Stack & Tools
-*   **Databases:** PostgreSQL (JOIN, CTE, WINDOW FUNCTIONS, SUBQUERY)
-*   **Analysis & Visualization:** Power BI, Python (Pandas, Numpy, Scipy)
-*   **Reporting:** MS Office (Expert in Excel)
-
-### 🎯 My Goals for 2026
-*   🎓 Get an offer for a Master’s degree at a **Top 100 Global University**.
-*   🚀 Level up to a **Strong Middle Data Analyst** with top-tier technical and communication skills.
-
-### 🤝 Let's Connect
-*   📫 Open to collaborating with **startups** or discussing interesting **datasets**.
-*   💬 Feel free to reach out for insights or data-driven discussions!
+🏦 3+ years across fintech, banking, and e-commerce, currently building on-premise LLM & voice-AI systems in a banking environment where data can't leave the building.
+🔍 I work across the full stack of the problem — from SQL and statistical testing to RAG pipelines and self-hosted LLM deployment — always tied back to the business metric it's meant to move.
+📊 Past impact: cut credit-default rates 70%, reduced manual HR work ~90% with an on-prem AI assistant, and lifted online sales 20% through A/B testing.
