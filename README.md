@@ -17,9 +17,9 @@
 `LangChain` `Ollama` `Qdrant` `RAG` `BGE-M3` `Voice AI (TTS/STT)`
 `Power BI` `Apache Superset` `Excel`
 
-### 🎯 Goals 2026
+### 🎯 Current Goals
 - 🎓 Master's offer at a **Top-100 university**
-- 🚀 Grow into a **strong mid-level Data Analyst**
+- 🚀 Grow into a **strong senior-level Data Analyst**
 - 🧠 Go deeper in **applied AI / LLM engineering**
 
 ### 🤝 Connect
